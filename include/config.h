@@ -74,7 +74,7 @@ typedef struct _prog_config {
      * but cmdline opts may override it.
      */
     char* conffile;
-    #define DEFAULT_CONFFILE "/etc/minieap.conf"
+    #define DEFAULT_CONFFILE "/etc/storage/minieap.conf"
 
     /*
      * Config file path
